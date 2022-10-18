@@ -22,12 +22,16 @@
 > ## 데이터 전처리
 
 * Constant-Q(Constant-Q Transform)
+
     ![extract cqt](https://user-images.githubusercontent.com/108206338/196156891-307ea1c0-8a86-4a15-b605-68300ddcb81f.png)
+
     * 시간데이터를 주파수 영역 신호로 변환하는 방법
     
 
 * MFCC(Mel-Frequency Cepstral Coefficient)
+
     ![extract mfcc](https://user-images.githubusercontent.com/108206338/196156895-faea650a-2898-477c-99dd-c2dd56b46e9d.png)
+    
     * 오디오 신호에서 고유한 특징을 추출하는 방법
 
 ---
